@@ -1,6 +1,6 @@
 # Arista EOS Telemetry Lab (ft. containerlab)
 
-This repository is heavily based on the amazing Nokia SR Linux Telemetry Lab from SRL Labs (https://github.com/srl-labs/srl-telemetry-lab). I was amazed at their demo and how easy it was to spin up multiple containerized network devices ***AND*** an open-source telemetry stack with one command (using containerlab)! I highly recommend checking out their lab, as it is a true inspiration for this lab. The license and copyright of that project has been retained in this project due to the reusability of some code (mostly the telemetry stack configs), and ultimately the idea for building out the lab.
+This repository is heavily based on the amazing Nokia SR Linux Telemetry Lab from SRL Labs (https://github.com/srl-labs/srl-telemetry-lab) and the Arista Telemtry Lab that was inspired by the former (https://github.com/dannywade/arista-clab-telemetry-lab). I was amazed at their demo and how easy it was to spin up multiple containerized network devices ***AND*** an open-source telemetry stack with one command (using containerlab)! I highly recommend checking out their lab, as it is a true inspiration for this lab. The license and copyright of that project has been retained in this project due to the reusability of some code (mostly the telemetry stack configs), and ultimately the idea for building out the lab.
 
 ***NOTE: There is an assumption containerlab is installed and you have gone through the [containerlab docs](https://containerlab.dev/). If not, I recommend doing so before spinning up this lab.***
 
